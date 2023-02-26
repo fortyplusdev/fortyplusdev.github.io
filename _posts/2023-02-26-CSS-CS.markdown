@@ -8,10 +8,18 @@ categories: jekyll update
 
 ## Online References
 
+[MDN CSS Glossary]
+[MDN CSS Guide]
+[MDN CSS Reference]
+[w3schools CSS Ref]
+
 [MDN CSS Glossary]: https://developer.mozilla.org/en-US/docs/Glossary/CSS
 [MDN CSS Guide]:   https://developer.mozilla.org/en-US/docs/Learn/CSS
 [MDN CSS Reference]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [w3schools CSS Ref]: https://www.w3schools.com/cssref/index.php
+
+[stylesheet]: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel#attr-stylesheet
+[alternative stylesheet]: https://developer.mozilla.org/en-US/docs/Web/CSS/Alternative_style_sheets
 
 ### CSS (Cascading Style Sheets)
 
@@ -24,7 +32,6 @@ categories: jekyll update
   * <span style="color:red">CSS also be used with other markup languages like:</span>
     - <span style="color:red">SVG (markup)</span>
     - <span style="color:red">XML (markup)</span>
-    
 
   - Consists of Properties that format the content
     - Font, Text, Spacing, Layout, etc
@@ -84,14 +91,14 @@ h1 {
 ```
 ## LINKING EXTERNAL CSS FILE
 
-### `<link>` Element
+### [`<link>` Element]
+[`<link>` Element]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
 
 <!-- GCS-HTML[epic=CS_HTML] Linking CSS Files-->
 <!-- GCS-HTML[epic=CS_HTML_ELM] <link>-->
 <!-- GCS-CSS[epic=CS_CSS] Linking CSS Files-->
 <!-- GCS-CSS[epic=CS_CSS] <link>-->
 
-[<link>]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link
 
 ```HTML
 <link href="someCSSFile.css" rel="someValue">
@@ -199,12 +206,12 @@ title
 
 - Standard Values include:
 
-    ? [stylesheet]: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel#attr-stylesheet
-      
+    ? [stylesheet]
+          
         ? rel= "stylesheet"
 
     ? alternative
-      ? [alternative stylesheet]: https://developer.mozilla.org/en-US/docs/Web/CSS/Alternative_style_sheets
+      ? [alternative stylesheet] 
 
         ? rel= "alternative stylesheet"
 
