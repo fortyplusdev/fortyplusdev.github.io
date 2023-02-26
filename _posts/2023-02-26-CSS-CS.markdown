@@ -4,7 +4,6 @@ title:  "My CSS Cheatsheet WIP"
 date:   2023-02-26 02:53:39 -0800
 categories: jekyll update
 ---
-# CSS CHEATSHEET
 
 ## Online References
 

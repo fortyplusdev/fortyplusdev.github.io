@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Cheatsheets
+title: CHEATSHEETS
 permalink: /Cheatsheets/
 ---
-
-# CHEATSHEETS
 
 HTML Cheatsheet
 
