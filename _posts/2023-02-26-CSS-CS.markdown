@@ -182,11 +182,9 @@ title
   - charset (deprecated)
   - rev (deprecated)
 
-### `rel="" `Attribute
+### [`rel="" `Attribute]
 
 <!--GCS-CSS[epic=CS_CSS] rel=""-->
-
-[MDN CSS rel=""]: https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/rel
 
 ```HTML
 <link href="someCSSFile.css" rel"someValue">
