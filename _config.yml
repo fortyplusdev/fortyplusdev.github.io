@@ -22,7 +22,7 @@ title: FortyPlusDev
 email: eric@fortyplus.dev
 description: >- # this means to ignore newlines until "baseurl:"
   This is an awesome description to my new GitHub Pages Jekyll site.
-baseurl: "/myblog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fortyplus.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
